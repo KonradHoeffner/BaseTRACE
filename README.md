@@ -27,6 +27,7 @@ If you just started working in a medical data integration center of a German Uni
 | Working group (MII) | Interoperability | Platform for agreeing amongst consortia the basis for ensuring interoperability between the proposed data integration centres. Created the MII core data set. | [Prof. Dr. Sylvia Thun](https://mentalhealth.charite.de/metas/person/person/address_detail/prof_dr_sylvia_thun/), [Prof. Dr. Thomas Ganslandt](https://www.imi.med.fau.de/person/prof-dr-thomas-ganslandt/) | https://www.medizininformatik-initiative.de/en/collaboration/interoperability-working-group#
 
 ### Health Data exchange
+
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | --- |
 | Data platform | Deutsches Forschungs-datenportal für Gesundheit | Central point to request data from MII locations | info@forschen-fuer-gesundheit.de | https://www.forschen-fuer-gesundheit.de
